@@ -1,3 +1,5 @@
+## National University of Quilmes
+![UNQ Logo](/images/Logo-UNQ-RGB.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Molecular-Pharmacology-Lab/Molecular-Pharmacology-Lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
